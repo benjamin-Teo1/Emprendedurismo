@@ -25,7 +25,7 @@ La actividad consiste en:
 
 ## Contenido del repositorio
 
-- `.txt` → Reflexión personal sobre el documental.
+- `Reflexión El Dilema de las redes sociales.txt` → Reflexión personal sobre el documental.
 - `README.md` → Información general del trabajo.
 
 ## Objetivo
